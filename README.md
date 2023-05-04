@@ -1,5 +1,5 @@
 # Alpha Cutter
-
+![](https://github.com/PsychoCoffee/alpha_cutter/blob/main/banner_ac.png)
 This is a python script, that can be used for cutting color textures according to the alpha texture.
 
 # How it works
