@@ -3,7 +3,7 @@ import numpy as np
 from os import system, name
 
 print("|---------------------|")
-print("| alpha + color = png |")
+print("|     alpha cutter    |")
 print("|     by luka beg     |")
 print("|      (c) 2023       |")
 print("|---------------------|")
