@@ -4,7 +4,6 @@ This is a python script, that can be used for cutting color textures according t
 
 # How it works
 It uses opencv2 to convert both inputted images (alpha and color textures) into arrays, and then cuts them, and saves them as a .png file to save the transparency.
-![](https://github.com/PsychoCoffee/alpha_cutter/blob/main/result.png)
 
 This can be useful for game engines and texturing programs, as you don't need to do this manually with photoshop anymore. 
 
