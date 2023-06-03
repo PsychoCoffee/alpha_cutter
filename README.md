@@ -15,3 +15,12 @@ As far as I'm aware, numpy should install alongside with opencv2, but if it does
 # With which file type does it work
 Well, to be honest, I'm not sure. As far as I tested, it works with jpeg, png, jpg, tiff, tif and bmp files. If something doesn't work feel free to report an issue on github.
 
+# License
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
